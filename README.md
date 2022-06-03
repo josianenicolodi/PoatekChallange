@@ -12,4 +12,4 @@
  
  
  
-         For programming logic exercises I used Python. For the database exercises I used Azure Data Studio with PostgreSQL.
+         For programming logic exercises I used Python. For the database exercises I used Azure Data Studio with PostgreSQL extension.
