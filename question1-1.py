@@ -4,8 +4,6 @@ deal with a varible to do a media of  height of the students
 '''
 
 
-
-
 students=(("Bruno", 170, 14), ("Leonardo", 174, 21), ("Juan", 156, 12), ("Juliana", 166, 13), ("Wagner",
 184, 17), ("Micaela", 172, 18), ("Bento", 150, 14), ("Lucia", 162, 13), ("Pedro", 169, 14), ("Carla",
 158, 16)) 
