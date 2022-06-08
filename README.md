@@ -13,3 +13,8 @@
  
  
      For programming logic exercises I used Python. For the database exercises I used Azure Data Studio with PostgreSQL extension.
+     
+     
+     
+     
+     DAY 07/06 : reviewing the repository I realized that I ended up making a mistake and sending the same code twice. I'm uploading the corrected version and it originates. done before Sunday.
